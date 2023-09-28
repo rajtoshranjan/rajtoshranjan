@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **Hi there 👋**
 Welcome to my GitHub profile! I'm Rajtosh Ranjan, an experienced full-stack developer with a passion for building innovative and efficient software solutions. I specialize in a wide range of technologies, including Python, JavaScript, TypeScript, C++, and more. My expertise lies in web development, particularly in Django and React. Additionally, I have a strong background in Geographic Information Systems (GIS) and have developed some exciting software applications in the GIS field.
 
-![LinkedIn Profile](https://www.linkedin.com/in/rajtoshranjan/)
+[LinkedIn Profile](https://www.linkedin.com/in/rajtoshranjan/)
 
 
 
