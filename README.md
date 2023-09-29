@@ -2,9 +2,20 @@
 
 **Hi there 👋**
 
-Welcome to my GitHub profile! I'm Rajtosh Ranjan, an experienced full-stack developer with a passion for building innovative and efficient software solutions. I specialize in a wide range of technologies, including Python, JavaScript, TypeScript, C++, and more. My expertise lies in web development, particularly in Django and React. Additionally, I have a strong background in Geographic Information Systems (GIS) and have developed some exciting software applications in the GIS field.
+<p style="text-align: justify;">Welcome to my GitHub profile! I'm Rajtosh Ranjan, an experienced full-stack developer with a passion for building innovative and efficient software solutions. I specialize in a wide range of technologies, including Python, JavaScript, TypeScript, C++, and more. My expertise lies in web development, particularly in Django and React. Additionally, I have a strong background in Geographic Information Systems (GIS) and have developed some exciting software applications in the GIS field.
+</p>
 
-[LinkedIn Profile](https://www.linkedin.com/in/rajtoshranjan/)
+ <div style="text-align: right;">
+        <a href="https://linkedin.com/in/rajtoshranjan">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://twitter.com/rajtoshranjan">
+            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
+        </a>
+        <a href="https://youtube.com/@rajtoshranjan">
+            <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" alt="YouTube">
+        </a>
+    </div>
 
 ## My Skills 🔧
 
@@ -58,12 +69,3 @@ I have a diverse skill set, and I am constantly exploring and learning new techn
 ![GIS](https://img.shields.io/badge/%F0%9F%8C%8E%20%20%20GIS-%234ea94a.svg?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-<!--
-
-## Contact Me 📬
-
-I'm always open to collaboration and discussing exciting projects. If you have any questions, ideas, or just want to connect, feel free to reach out to me via email at codinguda@gmail.com
-
-Let's innovate and build amazing software together! 🌟
--->
