@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rajtosh Ranjan</h1>
-<h3 align="center">A passionate Full-Stack Developer 👨‍💻</h3>
-**Hi there 👋**
 
 <p style="text-align: justify;">Welcome to my GitHub profile! I'm Rajtosh Ranjan, an experienced full-stack developer with a passion for building innovative and efficient software solutions. I specialize in a wide range of technologies, including Python, JavaScript, TypeScript, C++, and more. My expertise lies in web development, particularly in Django and React. Additionally, I have a strong background in Geographic Information Systems (GIS) and have developed some exciting software applications in the GIS field.
 </p>
@@ -74,7 +72,7 @@ I have a diverse skill set, and I am constantly exploring and learning new techn
 
 <div style="display: flex; justify-content: space-between; gap: 10px; ">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajtoshranjan&show_icons=true&locale=en" alt="rajtoshranjan" />
+<img  src="https://github-readme-stats.vercel.app/api?username=rajtoshranjan&show_icons=true&locale=en" alt="rajtoshranjan" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajtoshranjan&" alt="rajtoshranjan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajtoshranjan&show_icons=true&locale=en&layout=compact" alt="rajtoshranjan" />
 </div>
