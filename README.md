@@ -70,9 +70,4 @@ I have a diverse skill set, and I am constantly exploring and learning new techn
 
 ## GitHub Stats 👨‍💻
 
-<div style="display: flex; justify-content: space-between; gap: 10px; ">
-
-<img  src="https://github-readme-stats.vercel.app/api?username=rajtoshranjan&show_icons=true&locale=en" alt="rajtoshranjan" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajtoshranjan&show_icons=true&locale=en&layout=compact" alt="rajtoshranjan" />
-</div>
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=rajtoshranjan&show_icons=true&locale=en" alt="rajtoshranjan" />
