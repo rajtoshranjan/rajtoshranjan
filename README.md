@@ -68,6 +68,6 @@ I have a diverse skill set, and I am constantly exploring and learning new techn
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## GitHub Stats 👨‍💻
+<!-- ## GitHub Stats 👨‍💻
 
-<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=rajtoshranjan&show_icons=true&locale=en" alt="rajtoshranjan" />
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=rajtoshranjan&show_icons=true&locale=en" alt="rajtoshranjan" /> -->
