@@ -1,5 +1,5 @@
-# Rajtosh Ranjan - Full-Stack Developer 👨‍💻
-
+<h1 align="center">Hi 👋, I'm Rajtosh Ranjan</h1>
+<h3 align="center">A passionate Full-Stack Developer 👨‍💻</h3>
 **Hi there 👋**
 
 <p style="text-align: justify;">Welcome to my GitHub profile! I'm Rajtosh Ranjan, an experienced full-stack developer with a passion for building innovative and efficient software solutions. I specialize in a wide range of technologies, including Python, JavaScript, TypeScript, C++, and more. My expertise lies in web development, particularly in Django and React. Additionally, I have a strong background in Geographic Information Systems (GIS) and have developed some exciting software applications in the GIS field.
@@ -69,3 +69,12 @@ I have a diverse skill set, and I am constantly exploring and learning new techn
 ![GIS](https://img.shields.io/badge/%F0%9F%8C%8E%20%20%20GIS-%234ea94a.svg?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+## GitHub Stats 👨‍💻
+
+<div style="display: flex; justify-content: space-between; gap: 10px; ">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajtoshranjan&show_icons=true&locale=en" alt="rajtoshranjan" />
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajtoshranjan&" alt="rajtoshranjan" />
+</div>
